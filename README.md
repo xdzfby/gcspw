@@ -12,6 +12,7 @@
 <span style="font-size:20px"><a href="https://gcspw.cfd" target="_blank">gcspw.cfd</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.fun" target="_blank">gcspw.fun</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.lol" target="_blank">gcspw.lol</a></span><br>
+<span style="font-size:20px"><a href="https://gcspw.biz" target="_blank">gcspw.biz</a></span><br>
 <br />
 <span style="font-size:20px">请将此页加入收藏夹！</span>
 </center>
