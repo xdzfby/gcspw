@@ -8,6 +8,7 @@
 <span style="font-size:20px"><a href="https://gcspw.store" target="_blank">gcspw.store</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.shop" target="_blank">gcspw.shop</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.site" target="_blank">gcspw.site</a></span><br>
+<span style="font-size:20px"><a href="https://gcspw.sbs" target="_blank">gcspw.sbs</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.pics" target="_blank">gcspw.pics</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.lol" target="_blank">gcspw.lol</a></span><br>
 <span style="font-size:20px"><a href="https://gcspw.fun" target="_blank">gcspw.fun</a></span><br>
